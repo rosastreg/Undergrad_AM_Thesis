@@ -1,2 +1,6 @@
 # Undergrad_AM_Thesis
-The aim of this thesis is to perform Bayesian Inference in a Non-Linear Sequential State Model (NSSM) framework to track and predict the "real" number of infected cases for the COVID-19 epidemic in Mexico using only death counts and reported infected cases.
+The aim of this thesis is to perform Bayesian filtering and parameter inference in a non-linear system of diferential equations. Particularly, we shall conduct inference within the context of State Space Models using the compartmental SUIRD epidemiological model for the transition equations. 
+
+Overall, our main objectives are to:
+1. Estimate the "true" number of unidentified individuals,
+2. Estimate the time varying parameters of the model.
