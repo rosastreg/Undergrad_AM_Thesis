@@ -2,3 +2,4 @@
 
 # Ignore specific files
 Data/onset_to_hospital_df.feather
+Data/onset_to_death_df.feather
